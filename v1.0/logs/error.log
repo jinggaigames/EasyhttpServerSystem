@@ -1,0 +1,2 @@
+2023/03/13 18:45:40 [emerg] 3604#8024: CreateFile() "C:\Users\jinggai\Desktop\新建文件夹/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2023/03/13 18:54:33 [error] 6920#1056: *3 CreateFile() "C:\Users\jinggai\Desktop\EasyhttpServer/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
