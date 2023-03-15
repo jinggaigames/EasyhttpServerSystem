@@ -1,0 +1,1 @@
+copy autoboot C:\Users\server\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
